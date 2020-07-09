@@ -27,3 +27,5 @@ one of very few multiple felons with a [Knuth check](https://en.wikipedia.org/wi
 code stoned. debug sober. document drunk.
 
 Favorite languages (youngest to oldest): Rust, x86 assembly, C, Prolog, Latin.
+
+Maintainer for Debian, Fedora, Alpine, Arch, and FreeBSD.
