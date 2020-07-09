@@ -12,7 +12,7 @@ Too weird to live, and too rare to die.*
     * [omphalos](https://github.com/dankamongmen/omphalos)
 * inactive majors:
     * [libtorque](https://github.com/dankamongmen/libtorque)
-    * [SprezzOS](https://sprezzos.com)
+    * [SprezzOS](https://www.sprezzatech.com/wiki/index.php/SprezzOS)
 
 * **current primary non-Free effort**: microsoft, principal satellite engineer (spacelord)
 * as seen previously at:
