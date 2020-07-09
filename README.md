@@ -2,16 +2,16 @@
 
 **[Hack on.](https://nick-black.com/dankwiki/index.php/Hack_on)** Atlanta-based artificer of high-performance warez.
 
-**current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
-**active**:
+* **current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
+* **active**:
  * [growlight](https://github.com/dankamongmen/growlight)
  * [omphalos](https://github.com/dankamongmen/omphalos)
-**inactive**:
+* **inactive**:
  * [libtorque](https://github.com/dankamongmen/libtorque)
  * [SprezzOS](https://sprezzos.com)
 
-**current**: microsoft, principal satellite engineer (spacelord)
-**prev**:
+* **current**: microsoft, principal satellite engineer (spacelord)
+* **prev**:
  * dirty south supercomputers and waffles
  * luma
  * google
