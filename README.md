@@ -1,16 +1,24 @@
-### Hi there 👋
+### this is not a dank repo
 
-<!--
-**dankamongmen/dankamongmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Hack on.](https://nick-black.com/dankwiki/index.php/Hack_on)** Atlanta-based artificer of high-performance warez.
 
-Here are some ideas to get you started:
+**current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
+**active**:
+ * [growlight](https://github.com/dankamongmen/growlight)
+ * [omphalos](https://github.com/dankamongmen/omphalos)
+**inactive**:
+ * [libtorque](https://github.com/dankamongmen/libtorque)
+ * [SprezzOS](https://sprezzos.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**current**: microsoft, principal satellite engineer (spacelord)
+**prev**:
+ * dirty south supercomputers and waffles
+ * luma
+ * google
+ * sprezzatech
+ * nvidia
+ * arrayfire
+ * intel
+ * reflex security
+
+one of very few multiple felons with a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check).
