@@ -4,7 +4,7 @@
 
 *There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.*
 
-* current primary Free effort: [Notcurses](https://github.com/dankamongmen/notcurses)
+* **current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
 * active:
     * [growlight](https://github.com/dankamongmen/growlight)
     * [omphalos](https://github.com/dankamongmen/omphalos)
@@ -12,7 +12,7 @@
     * [libtorque](https://github.com/dankamongmen/libtorque)
     * [SprezzOS](https://sprezzos.com)
 
-* current primary non-Free effort: microsoft, principal satellite engineer (spacelord)
+* **current primary non-Free effort**: microsoft, principal satellite engineer (spacelord)
 * previously:
     * dirty south supercomputers and waffles
     * luma
