@@ -19,6 +19,7 @@ Too weird to live, and too rare to die.*
     * google, nvidia, intel (senior/principal engineer)
     * luma, arrayfire (chief engineer)
     * dirty south supercomputers and waffles, sprezzatech, reflex security (founder)
+* creator/instructor of CS4003UWS "[UNIX Weapons School](https://nick-black.com/dankwiki/index.php/UNIX_Weapons_School)" at Georgia Tech
 
 one of very few multiple felons with a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check).
 code stoned. debug sober. document drunk.
