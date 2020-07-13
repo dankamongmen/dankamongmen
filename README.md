@@ -8,6 +8,8 @@
 > *The key to this joint, the key to staying on top of things, is treat everything like it's your first project, knahmsayin? Like it's your first day like back when you was an intern. Like, that's how you try to treat things like, just stay hungry.*
 —Notorious B.I.G.
 
+code stoned. debug sober. document drunk.
+
 * **current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
 * **unceasing Free effort**: [dankwiki](https://nick-black.com/dankwiki/index.php/Hack_on)
 * active majors:
@@ -25,8 +27,7 @@
     * dirty south supercomputers and waffles, sprezzatech, reflex security (founder)
 * creator/instructor of CS4003UWS "[UNIX Weapons School](https://nick-black.com/dankwiki/index.php/UNIX_Weapons_School)" at Georgia Tech
 
-one of very few multiple felons with a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check).
-code stoned. debug sober. document drunk.
+I've got a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check). It's for a spelling correction, but it's still one more Knuth check than most people.
 
 Favorite languages (youngest to oldest): Rust, x86 assembly, C, Prolog, Latin.
 
