@@ -8,6 +8,8 @@
 > *The key to this joint, the key to staying on top of things, is treat everything like it's your first project, knahmsayin? Like it's your first day like back when you was an intern. Like, that's how you try to treat things like, just stay hungry.*
 —Notorious B.I.G.
 
+![github stats](https://github-readme-stats.vercel.app/api?username=dankamongmen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 code stoned. debug sober. document drunk.
 
 * **current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
@@ -32,8 +34,6 @@ I've got a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check). It's
 Favorite languages (youngest to oldest): Rust, x86 assembly, C, Prolog, Latin.
 
 Maintainer for Debian, Fedora, Alpine, Arch, and FreeBSD.
-
-![github stats](https://github-readme-stats.vercel.app/api?username=dankamongmen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 > *I thought of another moral, more down to earth and concrete, and I believe that every militant chemist can confirm it: that one must distrust the almost-the-same (sodium is almost the same as potassium, but with sodium nothing would have happened), the practically identical, the approximate, all surrogates, and all patchwork. The differences can be small, but they can lead to radically different consequences, like a railroad's switch points: the chemist's trade consists in good part of being aware of these differences, knowing them close up and foreseeing their effects. And not only the chemist's trade.*
 —Primo Levi
