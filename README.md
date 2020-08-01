@@ -29,11 +29,9 @@ code stoned. debug sober. document drunk.
     * dirty south supercomputers and waffles, sprezzatech, reflex security (founder)
 * creator/instructor of CS4003UWS "[UNIX Weapons School](https://nick-black.com/dankwiki/index.php/UNIX_Weapons_School)" at Georgia Tech
 
-I've got a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check). It's for a spelling correction, but it's still one more Knuth check than most people.
-
 Favorite languages (youngest to oldest): Rust, x86 assembly, C, Prolog, Latin.
 
-Maintainer for Debian, Fedora, Alpine, Arch, and FreeBSD.
+Maintainer for Debian, Fedora, Alpine, Arch, and FreeBSD. I've got a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check).
 
 > *I thought of another moral, more down to earth and concrete, and I believe that every militant chemist can confirm it: that one must distrust the almost-the-same (sodium is almost the same as potassium, but with sodium nothing would have happened), the practically identical, the approximate, all surrogates, and all patchwork. The differences can be small, but they can lead to radically different consequences, like a railroad's switch points: the chemist's trade consists in good part of being aware of these differences, knowing them close up and foreseeing their effects. And not only the chemist's trade.*
 —Primo Levi
