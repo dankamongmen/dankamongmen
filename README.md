@@ -10,11 +10,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dankamongmen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-code stoned. debug sober. document drunk.
+[code stoned. debug sober. document drunk.](https://nick-black.com/dankwiki/index.php/Hack_on)
 
-* **current primary Free effort**: [Notcurses](https://github.com/dankamongmen/notcurses)
-* **unceasing Free effort**: [dankwiki](https://nick-black.com/dankwiki/index.php/Hack_on)
 * active majors:
+    * [notcurses](https://github.com/dankamongmen/notcurses)
     * [growlight](https://github.com/dankamongmen/growlight)
     * [omphalos](https://github.com/dankamongmen/omphalos)
     * [libnetstack](https://github.com/dankamongmen/libnetstack)
