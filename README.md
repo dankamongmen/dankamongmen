@@ -10,7 +10,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dankamongmen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[code stoned. debug sober. document drunk.](https://nick-black.com/dankwiki/index.php/Hack_on)
+[code stoned. debug sober. document drunk.](https://nick-black.com/dankwiki/index.php/Here_is_how_to_win,_later)
 
 * active majors:
     * [notcurses](https://github.com/dankamongmen/notcurses)
