@@ -30,7 +30,7 @@
 
 Favorite languages (youngest to oldest): Rust, x86 assembly, C, Prolog, Latin.
 
-Maintainer for Debian, Fedora, Alpine, Arch, and FreeBSD. I've got a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check).
+I am a Debian Developer, and a maintainer for Fedora, Alpine, Arch, and FreeBSD. I've got a [Knuth check](https://en.wikipedia.org/wiki/Knuth_reward_check).
 
 > *I thought of another moral, more down to earth and concrete, and I believe that every militant chemist can confirm it: that one must distrust the almost-the-same (sodium is almost the same as potassium, but with sodium nothing would have happened), the practically identical, the approximate, all surrogates, and all patchwork. The differences can be small, but they can lead to radically different consequences, like a railroad's switch points: the chemist's trade consists in good part of being aware of these differences, knowing them close up and foreseeing their effects. And not only the chemist's trade.*
 —Primo Levi
